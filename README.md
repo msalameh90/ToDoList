@@ -1,2 +1,0 @@
-# ToDoList
-Android App
